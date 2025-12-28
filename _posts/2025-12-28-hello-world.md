@@ -14,7 +14,7 @@ Hello Everyone I am **Void Main** *(Tarun Kumar Maharana)*. I am a BSc. student 
 This is the first log entry of **Obsidian Arc**. 
 Today I deployed this site using **Jekyll** and **Github Actions**.
 
-###Current Status
+### Current Status
 
 * **Location:** Home
 * **Role:** Backend Engineer
@@ -22,3 +22,4 @@ Today I deployed this site using **Jekyll** and **Github Actions**.
 
 ```java
 System.out.println("I am live.");
+```
